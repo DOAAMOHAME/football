@@ -1,5 +1,5 @@
 # football 
-The goal of this projec:
+The goal of this project:
 
 
 • who are winner of the d1 in germany
@@ -18,6 +18,8 @@ preparing the enviroment
 • create directory
 
 • show path
+
+• work on pyspark
 
 
 
