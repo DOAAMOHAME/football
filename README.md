@@ -6,7 +6,7 @@ The goal of this project:
 
 • which teams have been relegated in the past 10 years 
 
-• which the sesaon was the most competitive 
+• which the season was the most competitive 
 
 • what is the best month to watch
 
